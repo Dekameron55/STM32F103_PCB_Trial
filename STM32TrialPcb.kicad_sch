@@ -5311,26 +5311,6 @@
 		)
 		(uuid "4f332230-56ab-4029-bf18-3975c2ff367f")
 	)
-	(text "GPIO Headers 01x15 - Male\n"
-		(exclude_from_sim no)
-		(at 32.258 102.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "6e5a5a16-1b20-4870-9f9a-eba88944a943")
-	)
-	(text "MCU Reset\n"
-		(exclude_from_sim no)
-		(at 24.384 57.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "ac35491e-a85e-42c2-a3ff-319e1db9ce91")
-	)
 	(text "USB-B Micro Connector and LDO Supply 5V to 3V3"
 		(exclude_from_sim no)
 		(at 42.926 16.002 0)
